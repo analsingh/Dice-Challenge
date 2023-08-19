@@ -10,7 +10,7 @@ Welcome to the Dice Challenge project! This simple web application allows two pl
 
 ## Demo
 
-You can check out a live demo of the Dice Challenge here [(https://github.com/analsingh/Dice-Challenge.git)](#).
+You can check out a live demo of the Dice Challenge here (https://github.com/analsingh/Dice-Challenge.git.
 
 ## Features
 
