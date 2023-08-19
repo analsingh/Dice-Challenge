@@ -1,0 +1,63 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    background: rgba( 237, 232, 232, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    border-radius: 10px;
+    border: 1px solid rgba(10, 0, 3, 0.18);
+    margin-inline: 10px;
+    margin-block: 5px;
+}
+
+body {
+    /* background-image: url('./images/bg.jpg');
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    height: 100vh;
+    width: 100vw; */
+    background: #1D4350;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #A43931, #1D4350);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #A43931, #1D4350);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Roboto', cursive;
+    text-shadow: 2px 0 #1D4350;
+    font-size: 4rem;
+    color: #f1f1f1;
+}
+
+p {
+    font-size: 2rem;
+    color: #ffffff;
+    font-size: 3rem;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 1px 3px 1px RED;
+}
+
+img {
+    width: 60%;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
